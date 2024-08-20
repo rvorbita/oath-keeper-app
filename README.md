@@ -1,1 +1,1 @@
-# oath-keeper-app
+# Oath-Keeper Password Manager
